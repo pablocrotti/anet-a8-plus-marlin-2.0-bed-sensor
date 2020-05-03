@@ -5,7 +5,7 @@ After having used my Anet A8 for a few years, I've decided to step up and get th
 
 As soon as I started using the Anet A8 Plus, I quickly realised that the manual calibration of the bed would become an issue for me. Indeed, due to the bigger surface, the bed calibration needs to be done perfectly in order to obtain decent print quality.
 In the past, with my old Anet A8, I have used the Marlin firmware (1.9) combined with a probe to sense the bed and auto-level it.
-Here I am showing the steps required to produce the same results with the Anet A8 Plus and the inductive sensor LJ18A3–8-Z/BX (available on Banggood https://www.banggood.com/8mm-LJ18A3-8-ZBX-Autolevel-Inductive-Sensor-For-Anet-A8-A2-A6-3D-Printer-p-1198244.html).
+Here I am showing the steps required to produce the same results with the Anet A8 Plus and the inductive sensor LJ18A3–8-Z/BX (available on Banggood https://www.banggood.com/8mm-LJ18A3-8-ZBX-Autolevel-Inductive-Sensor-For-Anet-A8-A2-A6-3D-Printer-p-1198244.html). I mounted the sensor with: https://www.thingiverse.com/thing:3811227 .
 This guide is partially based on Tom Hofman's really good tutorial (https://tomhofman.nl/anet-a8-plus-with-marlin-2-0/)
 
 Before starting, a word of caution. Despite performing better under Marlin 2.0 and allowing you to use a bed sensor, installing a new firmware can always lead to pretty big headaches and sometimes break your printer. Please make sure you know what you are doing before starting this tutorial.
